@@ -1,4 +1,4 @@
-# Jammer MVP
+# Jammer MVP Backend
 Final project fom a 1200 hours bootcamp in web development in https://codehouse.academy/
 
 This is the backend for a Mvp developed for a real company called Jammer. This project was developed in the last 3 weeks of the bootcamp. It is a centralized platform to get in touch Owners, tenants and refurbishment professionals. 
